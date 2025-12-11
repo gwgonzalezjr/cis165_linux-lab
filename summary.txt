@@ -1,0 +1,20 @@
+List of software Installed:
+-openssh-server
+-apache2
+-vsftpd
+-xrdp
+-docker.io
+-htop
+-nano
+-curl
+-tree
+-neofetch
+-wget
+
+Github Repository: https://github.com/gwgonzalezjr/cis165_linux-lab
+
+Three new skills learned:
+1. I learned how to install and remove linux software in terminal using the apt command. And how to update and remove them also.
+2. I learned how to download external .deb installer files using wget which is how I downloaded Google Chrome to my vm.
+3. I learned how to use Git command and GitHub, whicch included creating a repository, committing files, pushing with a personal access token.
+
